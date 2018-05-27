@@ -1,4 +1,5 @@
 {
+  "homepage": "https://hemantbits.github.io/robofriends",
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +17,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://hemantbits.github.io/robofriends",
   "devDependencies": {
     "gh-pages": "^1.1.0"
   }
